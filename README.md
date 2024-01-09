@@ -1,6 +1,6 @@
 # Sudoku-Solver
 
-The Input Puzzle should be given in this [File](input.txt).
+The Input Puzzle should give in this [File](input.txt).
 
 ## Input Format
 
