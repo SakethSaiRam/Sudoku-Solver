@@ -9,4 +9,4 @@ The Input Puzzle should be given in the file [Input File](input.txt).
 - Enter the numbers separated by spaces for 9 rows.
 - Example Input: 1 2 3 4 5 6 7 8 0
 
-- *The solved puzzle will be available in the file [Output File](output.txt).*
+**The solved puzzle will be available in the file [Output File](output.txt).**
